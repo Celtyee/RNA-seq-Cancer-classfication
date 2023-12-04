@@ -1,7 +1,7 @@
 # Analyzing-RNA-Seq-Gene-Expression-Data-Using-Deep-Learning-Approaches-for-Cancer-Classification
 Code reproduction for the paper: 
 
-[Analyzing RNA-Seq Gene Expression Data Using Deep Learning Approaches for Cancer Classification]("https://www.mdpi.com/2076-3417/12/4/1850").
+[Analyzing RNA-Seq Gene Expression Data Using Deep Learning Approaches for Cancer Classification (mdpi.com)](https://www.mdpi.com/2076-3417/12/4/1850)
 
 ### Reproduction result
 
